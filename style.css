@@ -53,6 +53,7 @@ body {
     align-items: center;
     width: 100%;
     padding: 0px 0px;
+    
 }
 
 #nav img {
@@ -64,14 +65,17 @@ body {
     display: flex;
     align-items: center;
     gap: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
 }
 
 #nav a {
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 12px;
-    font-weight: 600;
+    font-size: 18px;
+    font-weight: 200;
     color: #fff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 }
 
@@ -118,6 +122,11 @@ body {
     font-size: 3vw;
     margin-top: 1vw ;
     font-family: "kajiro";
+    
+}
+#heroleft button a{
+    text-decoration: none;
+    color: #000;
 }
 
 #heroright {
@@ -131,8 +140,12 @@ body {
 
 #heroright p{
     font-size: 12px;
-    font-weight: 300;
+    font-weight: 100;
     text-align: right;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
 }
 
 #heroright #imagediv{
