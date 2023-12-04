@@ -109,7 +109,7 @@ body {
     position: absolute;
     top: 100%;
     left: 0;
-    font-family: "kajiro";
+    font-family: "Kajiro-Bold";
     line-height: .9;
     color: #ffff;
     font-weight: 100;
@@ -121,7 +121,7 @@ body {
     padding: .8vw 2vw;
     font-size: 3vw;
     margin-top: 1vw ;
-    font-family: "kajiro";
+    font-family: "Kajiro-Bold";
     
 }
 #heroleft button a{
